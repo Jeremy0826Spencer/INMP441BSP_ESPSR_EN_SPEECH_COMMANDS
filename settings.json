@@ -1,0 +1,14 @@
+{
+  "idf.currentSetup": "C:\\esp\\v5.5.5\\esp-idf",
+  "idf.customExtraVars": {
+    "PYTHONUTF8": "1"
+  },
+  "clangd.path": "C:\\Espressif\\tools\\esp-clang\\esp-19.1.2_20250312\\esp-clang\\bin\\clangd.exe",
+  "clangd.arguments": [
+    "--background-index",
+    "--query-driver=**",
+    "--compile-commands-dir=c:\\Users\\spenc\\Desktop\\example\\examples\\en_speech_commands_recognition\\build"
+  ],
+  "idf.flashType": "UART",
+  "idf.port": "COM3"
+}
